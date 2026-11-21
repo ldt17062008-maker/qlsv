@@ -16,4 +16,8 @@ public class Student {
         System.out.println("Ho ten: " + hoTen);
         System.out.println("Ngay sinh: " + ngaySinh);
     }
+
+    public boolean khopMa(String ma) {
+        return this.maSV.equals(ma);
+    }
 }
