@@ -1,5 +1,4 @@
-public class Student { //MAIN
-    String maSV, hoTen, ngaySinh;
+public class Student {
 
     public Student(String maSV, String hoTen, String ngaySinh) {
         this.maSV = maSV;
