@@ -1,4 +1,4 @@
-public class Student {
+public class Student { // FEATURE
     String maSV, hoTen, ngaySinh;
 
     public Student(String maSV, String hoTen, String ngaySinh) {
